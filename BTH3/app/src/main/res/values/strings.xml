@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BTH3</string>
+    <string-array name="data">
+        <item>item-0</item>
+        <item>item-1</item>
+        <item>item-2</item>
+        <item>item-3</item>
+        <item>item-4</item>
+        <item>item-5</item>
+        <item>item-6</item>
+        <item>item-7</item>
+        <item>item-8</item>
+        <item>item-9</item>
+    </string-array>
+</resources>
+
+
